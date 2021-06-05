@@ -1,0 +1,483 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Users/lesmouflets/Desktop/Esteban Stuff/Unity Projects/2020.3.8f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker10
+-projectPath
+/Users/lesmouflets/Desktop/Esteban Stuff/Github/OneBossDemo/One Boss (MVP)
+-logFile
+Logs/AssetImportWorker10.log
+-srvPort
+61451
+Successfully changed project path to: /Users/lesmouflets/Desktop/Esteban Stuff/Github/OneBossDemo/One Boss (MVP)
+/Users/lesmouflets/Desktop/Esteban Stuff/Github/OneBossDemo/One Boss (MVP)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 88.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path /Users/lesmouflets/Desktop/Esteban Stuff/Unity Projects/2020.3.8f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/lesmouflets/Desktop/Esteban Stuff/Github/OneBossDemo/One Boss (MVP)/Assets
+GfxDevice: creating device client; threaded=0
+2021-06-04 21:38:50.998 Unity[17951:1451967] iMac preferred device: NVIDIA GeForce GT 755M (high power)
+2021-06-04 21:38:50.998 Unity[17951:1451967] Metal devices available: 1
+2021-06-04 21:38:50.998 Unity[17951:1451967] 0: NVIDIA GeForce GT 755M (high power)
+2021-06-04 21:38:50.999 Unity[17951:1451967] Using device NVIDIA GeForce GT 755M (high power)
+Initializing Metal device caps: NVIDIA GeForce GT 755M
+Initialize mono
+Mono path[0] = '/Users/lesmouflets/Desktop/Esteban Stuff/Unity Projects/2020.3.8f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/lesmouflets/Desktop/Esteban Stuff/Unity Projects/2020.3.8f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/lesmouflets/Desktop/Esteban Stuff/Unity Projects/2020.3.8f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56951
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/lesmouflets/Desktop/Esteban Stuff/Unity Projects/2020.3.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000502 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 45.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.471 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000743 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 59.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.834 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/lesmouflets/Desktop/Esteban Stuff/Unity Projects/2020.3.8f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.18 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1955 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.4 MB.
+System memory in use after: 151.5 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2403.
+Total: 2.203858 ms (FindLiveObjects: 0.213742 ms CreateObjectMapping: 0.072018 ms MarkObjects: 1.850447 ms  DeleteObjects: 0.066781 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(510f056fbd29e4b208cfcd0cc310fcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(510f056fbd29e4b208cfcd0cc310fcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8b02dffc1b9de0ad57b4a911aa9251') in 0.094920 seconds
+  Import took 0.130337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Scenes/MainScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be3314c010fc6354ba6589e2e91d5ca') in 0.035832 seconds
+  Import took 0.089127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 229.927032 seconds.
+  path: Packages/com.unity.2d.animation
+  artifactKey: Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation using Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09fa518512abe465e781a54efa05d46a') in 0.026573 seconds
+  Import took 0.091906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.813725 seconds.
+  path: Packages/com.unity.timeline/package.json
+  artifactKey: Guid(13a9c1b4df2e489e8eb9cacca7429596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/package.json using Guid(13a9c1b4df2e489e8eb9cacca7429596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30d81273250fe831fdab6aece846236') in 3.012269 seconds
+  Import took 3.049183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.178705 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab
+  artifactKey: Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab using Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cce7a24742fd5e8a8ab2da20c69032f') in 0.944400 seconds
+  Import took 0.995327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Open Sprite Shape.prefab
+  artifactKey: Guid(86ae7de409eb54f619fb1328e4d42480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Open Sprite Shape.prefab using Guid(86ae7de409eb54f619fb1328e4d42480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdee885e51b9ccf0fcef3a7dbe274ecc') in 0.032816 seconds
+  Import took 0.060780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.281761 seconds.
+  path: Assets/Pixel Fantasy Caves/background1.png
+  artifactKey: Guid(38dfa8c3b7cb9c34e8728c80c179319a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/background1.png using Guid(38dfa8c3b7cb9c34e8728c80c179319a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e95525ca746bf5a4d9e4b8dde4d6bed7') in 1.659757 seconds
+  Import took 1.697980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Pixel Fantasy Caves/background4b.png
+  artifactKey: Guid(f2c63cd02a5021e4aa78859519eef703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/background4b.png using Guid(f2c63cd02a5021e4aa78859519eef703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28dcd9f5ae71953d7524f5fd4fc4bb7e') in 0.248224 seconds
+  Import took 0.321354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Pixel Fantasy Caves/background2.png
+  artifactKey: Guid(ab399925d444e6945b12d20b9f3f62f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/background2.png using Guid(ab399925d444e6945b12d20b9f3f62f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650f3a5289f3915625903e79b4739017') in 0.040727 seconds
+  Import took 0.074735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Pixel Fantasy Caves/background3.png
+  artifactKey: Guid(d9caa294ebb856845a4e0af508e49dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/background3.png using Guid(d9caa294ebb856845a4e0af508e49dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46593041f9ebc7b66b663395fc9bffaa') in 0.032248 seconds
+  Import took 0.036799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Pixel Fantasy Caves/background4a.png
+  artifactKey: Guid(335e30b416040a24b88a1c16eda337f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Fantasy Caves/background4a.png using Guid(335e30b416040a24b88a1c16eda337f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d0a6fefd47a3a87ae0032c90875156') in 0.033633 seconds
+  Import took 0.125364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2371.920471 seconds.
+  path: Assets/Sprites/button.png
+  artifactKey: Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/button.png using Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33d78cdb40dbee53d59d4692b49c4621') in 0.341456 seconds
+  Import took 0.450798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.198193 seconds.
+  path: Assets/Sprites/button.png
+  artifactKey: Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/button.png using Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88389f7a5e6e1a9ab4c94b868341fff') in 0.314116 seconds
+  Import took 0.507522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.895361 seconds.
+  path: Assets/Sprites/button.png
+  artifactKey: Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/button.png using Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b51cd3da0fb06e26d05a48dd270cc0cb') in 0.131736 seconds
+  Import took 0.159842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 377.289422 seconds.
+  path: Assets/Sprites/button.png
+  artifactKey: Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/button.png using Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bfe62620dcc0911e83bf508eea662f2') in 0.290302 seconds
+  Import took 0.340732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.539280 seconds.
+  path: Assets/Sprites/button.png
+  artifactKey: Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/button.png using Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61fb818c3d0c7de00db05e353aebf721') in 0.025237 seconds
+  Import took 0.096233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.293552 seconds.
+  path: Assets/Sprites/button.png
+  artifactKey: Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/button.png using Guid(f18ecf5c3058a4427b71b279ee92f14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0140d979d1e97fed54eca96725a2280d') in 0.126630 seconds
+  Import took 0.153247 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.074678 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.851 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1945 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.5 MB.
+System memory in use after: 167.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2415.
+Total: 223.079578 ms (FindLiveObjects: 8.009233 ms CreateObjectMapping: 0.761332 ms MarkObjects: 214.273521 ms  DeleteObjects: 0.034085 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.029275 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.236 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1945 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.7 MB.
+System memory in use after: 167.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2418.
+Total: 2.117420 ms (FindLiveObjects: 0.234785 ms CreateObjectMapping: 0.072873 ms MarkObjects: 1.794745 ms  DeleteObjects: 0.014144 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 497.089389 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 1.085867 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 1.089425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074056 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.003085 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.007873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089343 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004207 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.007908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.402178 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004057 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.007730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117806 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.003982 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.047606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.153239 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.003649 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.007500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.109400 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.003624 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.007334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.140084 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004209 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.007862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.091860 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004048 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.007549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.545642 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005715 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.009385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.283524 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004592 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.008435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045514 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004171 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.007800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090293 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.003829 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.007543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.413192 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004002 seconds
+  ERROR: Build asset version error: assets/scripts/mainmenu.cs in SourceAssetDB has modification time of '2021-06-05T02:39:08Z' while content on disk has modification time of '2021-06-05T02:42:16Z'
+  Import took 0.007658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.529372 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(88cd3d312172b451e9058dceafe033c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d5e8877dd78ffded323bfe221af2fe') in 0.067528 seconds
+  Import took 0.212169 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.028355 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.602 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1945 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.1 MB.
+System memory in use after: 172.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2421.
+Total: 3.427517 ms (FindLiveObjects: 0.307771 ms CreateObjectMapping: 0.129751 ms MarkObjects: 2.968508 ms  DeleteObjects: 0.020364 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.641313 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.231 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1945 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.4 MB.
+System memory in use after: 172.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2424.
+Total: 2.383222 ms (FindLiveObjects: 0.230213 ms CreateObjectMapping: 0.082120 ms MarkObjects: 2.049652 ms  DeleteObjects: 0.019676 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 284.864615 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(510f056fbd29e4b208cfcd0cc310fcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(510f056fbd29e4b208cfcd0cc310fcf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66e3c1cbd95d463a26d8418367e20260') in 0.015235 seconds
+  Import took 0.081417 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.073593 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.416 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1945 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.6 MB.
+System memory in use after: 172.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2427.
+Total: 2.120956 ms (FindLiveObjects: 0.266052 ms CreateObjectMapping: 0.072796 ms MarkObjects: 1.767727 ms  DeleteObjects: 0.013568 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.601 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1945 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.8 MB.
+System memory in use after: 172.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2430.
+Total: 2.102103 ms (FindLiveObjects: 0.218814 ms CreateObjectMapping: 0.081981 ms MarkObjects: 1.785690 ms  DeleteObjects: 0.014448 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.083663 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.659 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1945 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.0 MB.
+System memory in use after: 173.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2433.
+Total: 2.570732 ms (FindLiveObjects: 0.320857 ms CreateObjectMapping: 0.074442 ms MarkObjects: 2.144646 ms  DeleteObjects: 0.029814 ms)
+

@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 04/06/2021 22:42:41 : Starting /Users/lesmouflets/Desktop/Esteban Stuff/Unity Projects/2020.3.8f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 4505,098ms
+moved types parse time: 117ms
+candidates parse time : 1ms
+C# parse time         : 4154ms
+candidates check time : 215ms
+console write time    : 75ms
+
